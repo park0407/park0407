@@ -1,6 +1,6 @@
 # 박상연 (Sangyeon Park)
 
-AI Builder. 만들고 싶은 것을 AI 코딩 도구로 구현하고, 직접 정한 기준으로 검증합니다.
+만들어야 할 것이 있다면, 끝까지 만듭니다.
 
 포트폴리오: https://evans-marvelous-site-1804f6.webflow.io
 
