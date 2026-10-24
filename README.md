@@ -13,5 +13,4 @@
 
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/sangyeon-park-7327143b1
 - Email: qkrtkddus190425@gmail.com
